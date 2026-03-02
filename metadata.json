@@ -1,0 +1,8 @@
+{
+  "name": "Ata AI Assistant",
+  "description": "A friendly and helpful voice AI assistant named Ata, featuring a conversational interface with memory and location-based responses.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
